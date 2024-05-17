@@ -4,37 +4,37 @@
 
 - **Name of company**: Nueralink
 
-- **Incorporation**: Nueralink Corporation was founded in July 2016.
+- **Incorporation**: Nueralink Corporation was founded in July, 2016.
 
 - **Founders**: Elon Musk, Max Hodak, Tim Hanson, Dongjun Seo, Vanessa Tolosa, and Philip Sabes.
 
 - **Idea Origin**: The idea for Nueralink came from the idea of developing brain-computer interface technologies to help treat neurological conditions and improve direct communcation between humans and computers.
 
-- **Funding**: Nueralink has recieved funding from [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk), venture capital firms, and grants.
+- **Funding**: Funding for Nueralink has come from [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk), venture capital firms, and grants.
 
 ## Business Activities
 
-- **Problem**: Nueralink is intended to solve a wide range of neurological disorders and improve human-computer communication capabilities by implanting brain-computer interface devices.
+- **Problem**: Nueralink intends to solve a wide range of neurological disorders and improve human-computer communication capabilities by implanting brain-computer interface devices.
 
-- **Intended Customers**: Originally aimed for individiuals suffering from neurological conditions such as Parkinson's disease, spinal cord injuries, or paralysis. It has then expanded into broader applications for individuals wanting to enhance coginitive abilities, or merge with artifical intelligence.
+- **Intended Customers**: At first, Neuralink originally aimed for individiuals suffering from neurological conditions such as Parkinson's disease, spinal cord injuries, or paralysis. It now has expanded into other applications, specifically individuals wanting to enhance coginitive abilities, or merge with artifical intelligence to help give them an edge in computing information and data.
 
-- **Unique Solution**: Nueralink's brain-computer interface technology aims to improve existing solutions by providing higher bandwidgth and fidelity in nueral communication. The technology is designed to be minimally invasive as well as recording and stimulating brain activity.
+- **Unique Solution**: The brain-computer interface technology that Nueralink provides, aims to improve present solutions with providing higher bandwidth in nueral communication. The technology will help record and stimulate brain activity for desired outcomes for possible rewiring and learning mind-muscle connection neural pathways to help aid with paralysis that have damaged nerve pathways.
 
-- **Technologies**: Nueralink uses a mix of robotics, material sciences, machine learning algorithms and neurotechnology to crate it's brain-computer interface devices.
+- **Technologies**: Nueralink uses a mix of robotics, material sciences, machine learning algorithms and neurotechnology to create it's brain-computer interface devices.
 
 ## Landscape
 
 - **Field**: Nueralink works in the neurotechnology field, specficially on brain-computer interfaces.
 
--  **Trends and Innovations**: Over the last few years, profound advancements have been made in neural interfaces, including improved electrode designs, wireless communication, and decoding algorithms. Neuralink's innovations aim to further improve the capabilities and accessibility of brain–computer interfaces.
+-  **Trends and Innovations**: Over the last few years, profound advancements have been made in neural interfaces, including improved electrode designs, wireless communication, and decoding algorithms. Neuralink's breakthroughs and developments aim to enhance the potential and accessiblity of computer-brance interfaces.
 
-- **Major Companies**: While Neuralink is a prominent entity in the neurotechnology space, other major companies involved in brain–computer interface research include Kernel, CTRL-labs (acquired by Facebook Reality Labs), and BrainGate.
+- **Major Companies**: Other major companies involved in brain–computer interface research include Kernel and BrainGate.
 
 ## Results
 
-- **Business Impact**: Neuralink's impact is still in the early stages, with ongoing research and development efforts focused on technology refinement and regulatory approval. However, its innovative approach has gained much attention and investment within the scientific community and beyond.
+- **Business Impact**: Neuralink's influence is still in it's early stages, with ongoing research and development aimed at advancing current technology and earning regulatory approval. Although still at an early phase as a company, it has caught world-wide attention due to the infamous and controversial Elon Musk, and has appeared as a possible and lucrative high yield investment for investors. 
 
-- **Core Metrics**: Core metrics for success in the neurotechnology field include device reliability, safety, efficacy in clinical trials, and patient outcomes. Neuralink's performance in these areas is currently under evaluation as the company progresses through preclinical and clinical stages.
+- **Core Metrics**: Core metrics for success in the neurotechnology field include device reliability, safety, efficacy in clinical trials, and patient outcomes. Neuralink's performance in these areas is currently being assessed as the  company moves through preclinical and clinical stages.
 
 - **Competitive Performance**: Neuralink faces competition from both established neurotech companies and academic research groups. Its ability to seperate itself from the pack through technological innovation and regulatory approval processes will determine its competitive position in the market.
 
