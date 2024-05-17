@@ -40,7 +40,7 @@
 
 ## Recommendations
 
-- **Product/Service Suggestions**: Outside of the medical applications, Neuralink could explore entertainment and media products or services, such as brain–computer interfaces for virtual reality gaming and entertainment, or improving enhanced cognitive performance with coordination and reaction time. Furthermore, Neuralink could explore dream recording, as well as dream engineering controls to boost brain activity and expand our lucid state outside of the awakened experience.
+- **Product/Service Suggestions**: Outside of the medical applications, Neuralink could explore entertainment and media products or services, such as brain–computer interfaces for virtual reality gaming, or improving enhanced cognitive performance with coordination and reaction time. Furthermore, Neuralink could explore dream recording, as well as dream engineering controls to boost brain activity and expand our lucid state outside of the awakened experience.
 
 - **Benefits**: Focusing on consumer markets with the aim of increasing cash flow and sales, could broaden Neuralink's revenue and increase public awareness and help accept the concept of brain–computer interface technologies for the public, as there is much criticism and controversy in this new artificial intelligence space.
 
